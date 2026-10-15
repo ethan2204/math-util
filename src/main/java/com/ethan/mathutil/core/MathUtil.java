@@ -3,7 +3,7 @@ package com.ethan.mathutil.core;
 public class MathUtil {
 
     public static long getFactorial(int i) {
-        long result = 1;
+        long result = 10; // CỐ TÌNH THỬ GITHUB ACTIONS CÓ PHÁT HIỆN LỖI LOGIC KHÔNG
         if( i == 0 ){
             return 1;
         }
