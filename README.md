@@ -20,4 +20,4 @@ My study notes on the GitHub Actions CI pipeline are in [docs/ci-notes.md](docs/
 
 ## Contact
 
-Le Gia Huy · legiahuya1.c3hn2021@gmail.com
+Le Gia Huy · legiahuy2269@gmail.com
